@@ -1,11 +1,11 @@
 ## Olá! Sou Fernando Cruz 👋
 
 
-- 🔭 Hoje disponível ao mercado de front-end, banco de dados e designer gráfico.
+- 🔭 Hoje disponível ao mercado de front-end, banco de dados e designer gráfico
 - 🌱 Estudando Angula com Typescript
-- 👯 Estou procurando colaborar com projetos front-end
+- 👯 Estou procurando colaborar com projetos front-end, banco de dados e designer
 - 📫 Contate-me no e-mail: nando33_2005@hotmail.com
-- 😄 Pronouns: ele/dele.
+- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://beacons.ai/nandocruz">
@@ -31,4 +31,5 @@
 
 <div>
   <a href="https://www.linkedin.com/in/fernando-cruz1005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?1=pt_br&phone=558398388777" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
