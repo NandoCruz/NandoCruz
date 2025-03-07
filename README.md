@@ -14,5 +14,6 @@
 </div>
 
 <div style="display: inline_blok"><br>
+  <img align="center" alt="Nando-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"/>
   
 </div>
