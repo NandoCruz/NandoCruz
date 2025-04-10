@@ -1,5 +1,5 @@
 ## Olá! Sou Fernando Cruz 👋
-
+![Designer Grafico](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/fundo-github.png)
 
 - 🔭 Hoje disponível ao mercado de front-end, banco de dados e designer gráfico
 - 🌱 Estudando Angula com Typescript
