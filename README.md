@@ -1,9 +1,9 @@
 ## Olá! 👋
 ![Designer Grafico](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/fundo-github.png)
 
-- 🔭 Hoje disponível ao mercado de front-end, banco de dados e designer gráfico
+- 🔭 Hoje disponível ao mercado de front-end, banco de dados ou designer gráfico
 - 🌱 Estudando Angula com Typescript
-- 👯 Estou procurando colaborar com projetos front-end, banco de dados e designer
+- 👯 Estou procurando colaborar com projetos front-end, banco de dados ou designer
 - 📫 Contate-me no e-mail: nando33_2005@hotmail.com
 - 😄 Pronouns: ele/dele
 
