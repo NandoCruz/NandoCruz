@@ -1,5 +1,5 @@
 ## Olá! 👋
-![Designer Grafico](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/fundo-github.png)
+![Designer Grafico](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/fundo-github1.png)
 
 - 🔭 Hoje disponível ao mercado de front-end, banco de dados ou designer gráfico
 - 🌱 Estudando Angula com Typescript
