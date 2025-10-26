@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F9C32D&width=650&lines=Ol%C3%A1%2C+sou+Fernando+Cruz!++%F0%9F%91%8B;T%C3%A9cnico+em+Designer+Gr%C3%A1fico;Graduado+em+An%C3%A1lise+e+Desenvolvimento;P%C3%B3s-graduado+em+Data+Science;P%C3%B3s-graduando+em+Full+Stack+Web+Development)](https://git.io/typing-svg)
 ## 
-![Designer Grafico](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/fundo-github1.png)
-
-<img width="1234" height="556" alt="Image" src="https://github.com/user-attachments/assets/b1c1f165-0473-410d-b092-99f158a8d5dc" />
+![Designer Grafico]([https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/fundo-github1.png](https://github.com/user-attachments/assets/b1c1f165-0473-410d-b092-99f158a8d5dc))
 
 - 🔭 Hoje disponível ao mercado de front-end, banco de dados ou designer gráfico
 - 🌱 Estudando Angula com Typescript
