@@ -2,6 +2,8 @@
 ## 
 ![Designer Grafico](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/fundo-github1.png)
 
+<img width="1234" height="556" alt="Image" src="https://github.com/user-attachments/assets/b1c1f165-0473-410d-b092-99f158a8d5dc" />
+
 - 🔭 Hoje disponível ao mercado de front-end, banco de dados ou designer gráfico
 - 🌱 Estudando Angula com Typescript
 - 👯 Estou procurando colaborar com projetos front-end, banco de dados ou designer
